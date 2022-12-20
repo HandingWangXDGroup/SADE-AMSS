@@ -15,8 +15,8 @@ tsn  ---  2*d  --- The number of individuals in the training set
 Np   ---   10  --- The size of population  
 K    ---   20  --- The maximum number of subspaces in a generation  
 Gm   ---    5  --- The maximum iterations of subspace optimization  
-tes  ---   50  --- a pre-set cutoff generation  
-tr   ---  500  --- a pre-set cutoff generation  
+tes  ---   50  --- A pre-set cutoff generation  
+tr   ---  500  --- A pre-set cutoff generation  
 beta ---    2  --- The threshold for switching strategy  
    
 This code is written by Haoran Gu.  
